@@ -37,3 +37,6 @@ Legais | O sistema deverá atender as normas legais, tais como padrões, leis, e
 
 ## Dashboard cadastro de produtos
 <img src="https://raw.githubusercontent.com/Calvao-Bueno/projeto/main/prot%C3%B3tipo%20tela%20adm.png" />
+
+## Casos de uso 
+<img src="https://github.com/Calvao-Bueno/projeto/blob/main/caso%20de%20usos_calv%C3%A3o.jpg?raw=true"/>
