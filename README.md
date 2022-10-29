@@ -16,7 +16,7 @@ Requisito Funcional #8 - O cliente deve ser capaz de criar umcarrinho de compras
 Requisito Funcional #9 - O cliente precisa poder acompanhar o rastreio do seu pedido (caso tenha feito compra online) | Requisito Funcional #9 - O sistema deve mandar novidades para os clientes cadastrados na base de dados que permitirem essa interação
 Requisito Funcional  #10 - O cliente deve poder decidir se quer ou não receber Emails de comunicação de novos produtos | 
 
-#### › Requisitos funcionais
+#### › Requisitos Não funcionais
 
 | TIPO | DESCRIÇÃO |
 |------|-----------|
