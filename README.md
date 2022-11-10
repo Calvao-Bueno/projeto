@@ -40,3 +40,6 @@ Legais | O sistema deverá atender as normas legais, tais como padrões, leis, e
 
 ## Casos de uso 
 <img src="https://github.com/Calvao-Bueno/projeto/blob/main/caso%20de%20usos_calv%C3%A3o.jpg?raw=true"/>
+
+## Diagrama de classes
+<img src="https://raw.githubusercontent.com/Calvao-Bueno/projeto/main/diagramaCalvao.jpg"/>
