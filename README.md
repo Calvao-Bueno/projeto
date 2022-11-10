@@ -1,7 +1,7 @@
 # Calvão Bueno
 ### Mapeamento de funcionalidades
 
-#### › Requisitos não-funcionais
+#### › Requisitos funcionais
 
 | CLIENTE | ADMIN |
 |---------| ------|
