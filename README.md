@@ -42,4 +42,16 @@ Legais | O sistema deverá atender as normas legais, tais como padrões, leis, e
 <img src="https://github.com/Calvao-Bueno/projeto/blob/main/caso%20de%20usos_calv%C3%A3o.jpg?raw=true"/>
 
 ## Diagrama de classes
-<img src="https://raw.githubusercontent.com/Calvao-Bueno/projeto/main/diagramaCalvao.jpg"/>
+<img src="https://github.com/Calvao-Bueno/projeto/blob/main/diagramaDeClasse.jpg"/>
+
+## Modelo Lógico do BD
+<img src="https://github.com/Calvao-Bueno/projeto/blob/main/Modelo%20L%C3%B3gico%20do%20BD.jpg"/>
+
+## Diagrama de Relacionamento 
+<img src="https://github.com/Calvao-Bueno/projeto/blob/main/Diagrama%20Entidade%20Relacionamento.jpg"/>
+
+## Diagrama de Atividades 
+<img src="https://github.com/Calvao-Bueno/projeto/blob/main/Diagrama%20de%20atividades%20Calv%C3%A3o%20(1).jpg"/>
+
+## Diagrama de Sequência 
+<img src="https://github.com/Calvao-Bueno/projeto/blob/main/diagrama%20de%20sequ%C3%AAncia.jpg"/>
