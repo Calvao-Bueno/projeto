@@ -1,6 +1,6 @@
 # Calvão Bueno
 Nosso objetivo foi projetar uma loja online de produtos voltados a pessoas calvas e/ou carecas.
-<br> Integrantes: Ana Alice, Ana Camila, Gabrielle Soares, Hugo, Luanna A.M.S, Marcos Paulo, Yasmin Carolina.
+<br> Integrantes: Ana Alice, Ana Camila, Gabrielle Soares, Hugo, Luana A.M.S, Marcos Paulo, Yasmin Carolina.
 ### Mapeamento de funcionalidades
 
 #### › Requisitos funcionais
