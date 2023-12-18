@@ -65,13 +65,70 @@ Interoperabilidade | O sistema deverá se comunicar com o banco SQL Server.
 Legais | O sistema deverá atender as normas legais, tais como padrões, leis, etc. 	
 </details>
 
----
-<h2> Interface e Protótipos </h2>
+
 
 <details> 
-<summary> <h3> 🖼 Página Inicial do Site: </h3></summary>
+<summary> <h3> 📚 Diagramas: </h3>
+</summary>
 
+<details> 
+<summary> <h3> 📒 Casos de uso: </h3></summary>
+
+<img src="https://github.com/Calvao-Bueno/projeto/blob/main/caso%20de%20usos_calv%C3%A3o.jpg?raw=true"/>
 
 </details>
 
+<details> 
+<summary> <h3> 📕 Diagrama de classes </h3></summary>
+<img src="https://github.com/Calvao-Bueno/projeto/blob/main/diagramaDeClasse.jpg"/>
+
+</details>
+
+<details> 
+<summary> <h3> 📗 Modelo Lógico do BD</h3></summary>
+<img src="https://github.com/Calvao-Bueno/projeto/blob/main/Modelo%20L%C3%B3gico%20do%20BD.jpg"/>
+
+</details>
+
+<details> 
+<summary> <h3> 📘 Diagrama de Relacionamento  </h3></summary>
+<img src="https://github.com/Calvao-Bueno/projeto/blob/main/Diagrama%20Entidade%20Relacionamento.jpg"/>
+
+</details>
+
+<details> 
+<summary> <h3> 📙 Diagrama de Atividades   </h3></summary>
+<img src="https://github.com/Calvao-Bueno/projeto/blob/main/Diagrama%20de%20atividades%20Calv%C3%A3o%20(1).jpg"/>
+
+</details>
+
+<details> 
+<summary> <h3> 📔  Diagrama de Sequência   </h3></summary>
+<img src="https://github.com/Calvao-Bueno/projeto/blob/main/diagrama%20de%20sequ%C3%AAncia.jpg"/>
+
+</details>
+
+</details>
+
+
+
+
+
+---
+<h2> Protótipo </h2>
+
+<details> 
+<summary> <h3> 🖼 Página Inicial do Site: </h3></summary>
+Desenvolvemos a interface de forma a proporcionar simplicidade e conveniência ao cliente, incorporando um estilo temático mais vintage.
+<img src="https://raw.githubusercontent.com/Calvao-Bueno/projeto/main/calv%C3%A3o%20site.png" alt="Layout" title="Site" />
+
+</details>
+
+<details> 
+<summary> <h3> 🏷 Dashboard cadastro de produtos</h3></summary>
+
+A seguir, apresentamos um protótipo que representa a interface pela qual o administrador (ADM) terá controle sobre os produtos e a gestão geral do site.
+<img src="https://raw.githubusercontent.com/Calvao-Bueno/projeto/main/prot%C3%B3tipo%20tela%20adm.png" />
+
+</details>
 
