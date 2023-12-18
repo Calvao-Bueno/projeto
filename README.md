@@ -1,9 +1,34 @@
-# Calvão Bueno
-Nosso objetivo foi projetar uma loja online de produtos voltados a pessoas calvas e/ou carecas.
-<br> Integrantes: Ana Alice, Ana Camila, Gabrielle Soares, Hugo, Luana A.M.S, Marcos Paulo, Yasmin Carolina.
-### Mapeamento de funcionalidades
+<h1> Projeto do site "Calvão Bueno"</h1>
 
-#### › Requisitos funcionais
+### 👥 Membros
+[![gabrielle Soares](https://img.shields.io/badge/gabrielle_Soares-pink?style=for-the-badge&logo=github)](https://github.com/gabriellesote)
+[![Ana alice](https://img.shields.io/badge/Ana_alice-purple?style=for-the-badge&logo=github)](https://github.com/AnaAlice951)
+![Ana camila](https://img.shields.io/badge/Ana_camila-blue?style=for-the-badge&logo=github)
+![Hugo](https://img.shields.io/badge/Hugo-green?style=for-the-badge&logo=github)
+![Luana  A.](https://img.shields.io/static/v1?label=&message=Luana++A.&color=red&style=for-the-badge&logo=github)
+![marcos paulo](https://img.shields.io/badge/marcos_paulo-yellow?style=for-the-badge&logo=github)
+![yasmin carolina](https://img.shields.io/badge/yasmin_carolina-orange?style=for-the-badge&logo=github)
+  
+
+
+### 📜 Sobre a A3
+<p align= "justify">
+ A proposta da A3 consistiu na modelagem de um site para uma loja online de vendas. Foram identificados e documentados tanto os requisitos funcionais quanto os requisitos não funcionais do sistema. Além disso, houve o design da página inicial do site, proporcionando uma visão do cliente ao visitar a plataforma. Também foi projetada a interface para o cadastro de produtos, destinada à administração do site. 
+</p>
+
+
+### 📜 Descrição da Loja 
+
+<p align = "justify">
+ O projeto "Calvão Bueno" propõe a criação de uma loja online dedicada ao universo de produtos específicos para pessoas calvas e/ou carecas. Com o intuito de atender às necessidades desse público específico, a plataforma será desenvolvida para oferecer uma experiência de compra personalizada, contemplando desde produtos de cuidado pessoal até acessórios e itens relacionados à estética e bem-estar desse segmento. A especialização do projeto reflete o comprometimento em proporcionar soluções adaptadas e inclusivas, consolidando a loja como referência para aqueles que buscam produtos pensados especialmente para as particularidades da calvície.
+ 
+</p>
+
+---
+<h2> Modelagem Técnica  </h2>
+<details> 
+<summary> <h3>🌺 Requisitos Funcionais</h3></summary>
+
 Aqui levantamos os requisitos do site. Escolhemos fazer tanto os requisitos do cliente que utilizará o site, quanto do Admin que irá gerenciar as vendas.
 
 | CLIENTE | ADMIN |
@@ -19,7 +44,11 @@ Requisito Funcional #8 - O cliente deve conseguir criar um carrinho de compras. 
 Requisito Funcional #9 - O cliente precisa poder acompanhar o rastreio do seu pedido (caso tenha feito compra online) | Requisito Funcional #9 - O sistema deve mandar novidades para os clientes cadastrados na base de dados que permitirem essa interação
 Requisito Funcional  #10 - O cliente deve poder decidir se quer ou não receber E-mails de comunicação de novos produtos | 
 
-#### › Requisitos Não funcionais
+
+</details>
+
+<details> 
+<summary> <h3>🌱Requisitos Não Funcionais </h3></summary>
 
 | TIPO | DESCRIÇÃO |
 |------|-----------|
@@ -34,29 +63,15 @@ Padrões | Uso de programação orientada a objeto sob a plataforma A.
 Interoperabilidade | O sistema deverá se comunicar com o banco SQL Server.	
 Éticos | O sistema não apresentará aos usuários quaisquer dados de cunho privado, nem utilizar de forma indevida.
 Legais | O sistema deverá atender as normas legais, tais como padrões, leis, etc. 	
+</details>
 
-## Página inicial do site
-Projetamos a interface para ser simples e conveniente ao cliente e tematizamos com um estilo mais vintage.
-<img src="https://raw.githubusercontent.com/Calvao-Bueno/projeto/main/calv%C3%A3o%20site.png" alt="Layout" title="Site" />
+---
+<h2> Interface e Protótipos </h2>
 
-## Dashboard cadastro de produtos
-Aqui é um protótipo de como seria a tela que o ADM iria controlar os produtos e o site em geral.
-<img src="https://raw.githubusercontent.com/Calvao-Bueno/projeto/main/prot%C3%B3tipo%20tela%20adm.png" />
+<details> 
+<summary> <h3> 🖼 Página Inicial do Site: </h3></summary>
 
-## Casos de uso 
-<img src="https://github.com/Calvao-Bueno/projeto/blob/main/caso%20de%20usos_calv%C3%A3o.jpg?raw=true"/>
 
-## Diagrama de classes
-<img src="https://github.com/Calvao-Bueno/projeto/blob/main/diagramaDeClasse.jpg"/>
+</details>
 
-## Modelo Lógico do BD
-<img src="https://github.com/Calvao-Bueno/projeto/blob/main/Modelo%20L%C3%B3gico%20do%20BD.jpg"/>
 
-## Diagrama de Relacionamento 
-<img src="https://github.com/Calvao-Bueno/projeto/blob/main/Diagrama%20Entidade%20Relacionamento.jpg"/>
-
-## Diagrama de Atividades 
-<img src="https://github.com/Calvao-Bueno/projeto/blob/main/Diagrama%20de%20atividades%20Calv%C3%A3o%20(1).jpg"/>
-
-## Diagrama de Sequência 
-<img src="https://github.com/Calvao-Bueno/projeto/blob/main/diagrama%20de%20sequ%C3%AAncia.jpg"/>
