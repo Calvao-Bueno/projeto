@@ -5,7 +5,7 @@
 [![Ana alice](https://img.shields.io/badge/Ana_alice-purple?style=for-the-badge&logo=github)](https://github.com/AnaAlice951)
 ![Ana camila](https://img.shields.io/badge/Ana_camila-blue?style=for-the-badge&logo=github)
 ![Hugo](https://img.shields.io/badge/Hugo-green?style=for-the-badge&logo=github)
-![Luana  A.](https://img.shields.io/static/v1?label=&message=Luana++A.&color=red&style=for-the-badge&logo=github)
+[![Luana  A.M.S.](https://img.shields.io/static/v1?label=&message=Luana++A.&color=red&style=for-the-badge&logo=github)](https://github.com/LuanaAMS)
 ![marcos paulo](https://img.shields.io/badge/marcos_paulo-yellow?style=for-the-badge&logo=github)
 ![yasmin carolina](https://img.shields.io/badge/yasmin_carolina-orange?style=for-the-badge&logo=github)
   
